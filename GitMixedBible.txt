@@ -1,0 +1,4 @@
+this is the bible for GitMixedRepo being created as part of GitTraining
+
+Table of Contents to be added in later version
+-- This is the new line being added to check "git diff" command, Lets see what does it shows" 
